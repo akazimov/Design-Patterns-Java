@@ -64,7 +64,7 @@ Process finished successfully.
 ----------
 Admin profile already exists:
 username: Jack
-password: carribean123
+password: caribbean123
 ----------
 Process finished successfully.
 */
