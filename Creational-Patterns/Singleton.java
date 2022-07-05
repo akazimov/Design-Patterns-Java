@@ -1,10 +1,10 @@
-/*
+/***
     Main purpose of using Singleton Pattern: To make sure that class has ONLY and ONLY one instance (object)
     Main rules for Singleton Pattern:
         1. Class must be final.
         2. Class must have static instance of itself.
         3. Class must have static getInstance() method to create object (or inform the programmer if an object already exists).
-*/
+***/
 final class Admin {
     private static Admin admin;
     private String username, password;
