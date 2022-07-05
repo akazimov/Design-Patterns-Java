@@ -45,7 +45,7 @@ final class Admin {
     }
 }
 
-public class Singleton {
+public class SingletonPattern {
     public static void main(String[] args) {
         Admin admin = Admin.getInstance("Jack", "caribbean123");
         admin.doSmth();
