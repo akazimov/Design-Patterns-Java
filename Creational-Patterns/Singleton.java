@@ -53,3 +53,18 @@ public class Singleton {
         admin.doSmth();
     }
 }
+/* OUTPUT: */
+/*
+----------
+Admin profile is active:
+username: Jack
+password: carribean123
+----------
+Process finished successfully.
+----------
+Admin profile already exists:
+username: Jack
+password: carribean123
+----------
+Process finished successfully.
+*/
