@@ -47,7 +47,7 @@ final class Admin {
 
 public class Singleton {
     public static void main(String[] args) {
-        Admin admin = Admin.getInstance("Jack", "carribean123");
+        Admin admin = Admin.getInstance("Jack", "caribbean123");
         admin.doSmth();
         admin = Admin.getInstance("Tony","avengers123");
         admin.doSmth();
